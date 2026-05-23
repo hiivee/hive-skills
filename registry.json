@@ -1,0 +1,3353 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-05-23T19:21:48.295128+00:00",
+  "repo": "hiivee/hive-skills",
+  "installCLI": "npx hive-skills install --skill <name>",
+  "skills": [
+    {
+      "slug": "ab-test-setup",
+      "name": "ab-test-setup",
+      "description": "When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions \"A/B test,\" \"split test,\" \"experiment,\" \"test this change,\" \"variant copy,\" \"multivariate test,\" \"hypothesis,\" \"should I test this,\" \"which version is better,\" \"test two versions,\" \"statistical significance,\" or \"how long should I run this test.\" Use this whenever someone is comparing two a",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ab-test-setup",
+      "githubPath": "skills/general/ab-test-setup/SKILL.md"
+    },
+    {
+      "slug": "absorver",
+      "name": "absorver",
+      "description": "Absorve novas tecnologias, repos, skills, hooks, MCPs, padrões — analisa o que pode entrar no sistema do Juan (CLAUDE.md, Hub, Steve OS, Cockpit, clientes, monetização) e documenta em docs/absorcoes/. Triggers — \"absorve\", \"absorver\", \"absorva isso\", \"estuda esse repo\", \"o que dá pra agregar\", \"o que dá pra puxar\", \"absorção\", \"incrementa do que tem aqui\", URL de GitHub repo, link de tutorial/post",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill absorver",
+      "githubPath": "skills/general/absorver/SKILL.md"
+    },
+    {
+      "slug": "ad-creative",
+      "name": "ad-creative",
+      "description": "When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,' 'creative testing,' 'ad performance optimization,' 'write me some ads,' 'Facebook ad copy,' 'Goo",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ad-creative",
+      "githubPath": "skills/design/ad-creative/SKILL.md"
+    },
+    {
+      "slug": "ai-seo",
+      "name": "ai-seo",
+      "description": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers. Also use when the user mentions 'AI SEO,' 'AEO,' 'GEO,' 'LLMO,' 'answer engine optimization,' 'generative engine optimization,' 'LLM optimization,' 'AI Overviews,' 'optimize for ChatGPT,' 'optimize for Perplexity,' 'AI citations,' 'AI visibility,' 'zero-click search,' 'how do I show",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ai-seo",
+      "githubPath": "skills/general/ai-seo/SKILL.md"
+    },
+    {
+      "slug": "analytics-tracking",
+      "name": "analytics-tracking",
+      "description": "When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions \"set up tracking,\" \"GA4,\" \"Google Analytics,\" \"conversion tracking,\" \"event tracking,\" \"UTM parameters,\" \"tag manager,\" \"GTM,\" \"analytics implementation,\" \"tracking plan,\" \"how do I measure this,\" \"track conversions,\" \"attribution,\" \"Mixpanel,\" \"Segment,\" \"are my events firing,\" or ",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill analytics-tracking",
+      "githubPath": "skills/general/analytics-tracking/SKILL.md"
+    },
+    {
+      "slug": "anthropic-frontend-design",
+      "name": "anthropic-frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces that avoid generic \"AI slop\" aesthetics. Combines the design intelligence of UI/UX Pro Max with Anthropic's anti-slop philosophy. Use for building UI components, pages, applications, or interfaces with exceptional attention to detail and bold creative choices.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill anthropic-frontend-design",
+      "githubPath": "skills/design/anthropic-frontend-design/SKILL.md"
+    },
+    {
+      "slug": "api-design",
+      "name": "api-design",
+      "description": "REST API design patterns including resource naming, status codes, pagination, filtering, error responses, versioning, and rate limiting for production APIs.",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill api-design",
+      "githubPath": "skills/dev/api-design/SKILL.md"
+    },
+    {
+      "slug": "app-store-screenshots",
+      "name": "app-store-screenshots",
+      "description": "Use when building App Store or Google Play screenshot pages, generating exportable marketing screenshots for iOS and/or Android apps, or creating programmatic screenshot generators with Next.js. Triggers on app store, play store, screenshots, marketing assets, html-to-image, phone mockup, android screenshots, feature graphic.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill app-store-screenshots",
+      "githubPath": "skills/general/app-store-screenshots/SKILL.md"
+    },
+    {
+      "slug": "architecture-diagram",
+      "name": "architecture-diagram",
+      "description": "Build editable architecture diagrams for client/product explanations. Use when Juan asks to create a diagram of \"how X works\", explain a product to a client, show system architecture, or visualize how Hub/agents/integrations connect. Output: tldraw editor with custom shapes (real Iconify icons + Poppins + dark canvas) — visual editing for Juan + JSON config for programmatic edits. Hosted at hub.ju",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill architecture-diagram",
+      "githubPath": "skills/dev/architecture-diagram/SKILL.md"
+    },
+    {
+      "slug": "autoplan",
+      "name": "autoplan",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill autoplan",
+      "githubPath": "skills/general/autoplan/SKILL.md"
+    },
+    {
+      "slug": "beeper",
+      "name": "beeper",
+      "description": ">",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill beeper",
+      "githubPath": "skills/general/beeper/SKILL.md"
+    },
+    {
+      "slug": "benchmark",
+      "name": "benchmark",
+      "description": "|",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill benchmark",
+      "githubPath": "skills/dev/benchmark/SKILL.md"
+    },
+    {
+      "slug": "board",
+      "name": "board",
+      "description": "Acessa o Hub Board via API — lê agenda, move cards, cria tasks, marca done. Trigger: /board, #hoje, meu dia, o que tenho pra fazer, adiciona no board, marca como feito.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill board",
+      "githubPath": "skills/general/board/SKILL.md"
+    },
+    {
+      "slug": "brainstorming",
+      "name": "brainstorming",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill brainstorming",
+      "githubPath": "skills/general/brainstorming/SKILL.md"
+    },
+    {
+      "slug": "brand-guidelines",
+      "name": "brand-guidelines",
+      "description": "When the user wants to apply, document, or enforce brand guidelines for any product or company. Also use when the user mentions 'brand guidelines,' 'brand colors,' 'typography,' 'logo usage,' 'brand voice,' 'visual identity,' 'tone of voice,' 'brand standards,' 'style guide,' 'brand consistency,' or 'company design standards.' Covers color systems, typography, logo rules, imagery guidelines, and t",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill brand-guidelines",
+      "githubPath": "skills/design/brand-guidelines/SKILL.md"
+    },
+    {
+      "slug": "business-growth",
+      "name": "business-growth-skills",
+      "description": "4 business growth agent skills and plugins for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. Customer success (health scoring, churn), sales engineer (RFP), revenue operations (pipeline, GTM), contract & proposal writer. Python tools (stdlib-only).",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill business-growth",
+      "githubPath": "skills/general/business-growth/SKILL.md"
+    },
+    {
+      "slug": "c-level-advisor",
+      "name": "c-level-advisor",
+      "description": "10 C-level advisory agent skills and plugins for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. CEO, CTO, COO, CPO, CMO, CFO, CRO, CISO, CHRO, Executive Mentor. Multi-role board meetings, strategy routing, structured recommendations. For founders needing executive-level decision support.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill c-level-advisor",
+      "githubPath": "skills/general/c-level-advisor/SKILL.md"
+    },
+    {
+      "slug": "canary",
+      "name": "canary",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill canary",
+      "githubPath": "skills/general/canary/SKILL.md"
+    },
+    {
+      "slug": "canvas-design",
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill canvas-design",
+      "githubPath": "skills/design/canvas-design/SKILL.md"
+    },
+    {
+      "slug": "careful",
+      "name": "careful",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill careful",
+      "githubPath": "skills/general/careful/SKILL.md"
+    },
+    {
+      "slug": "carousel-designer",
+      "name": "carousel-designer",
+      "description": "Designer de carrosseis para Instagram e redes sociais. Ativa quando pedir pra criar, melhorar ou reformular templates de carrossel, definir layout visual, escolher paleta de cores, tipografia, ou gerar HTML/CSS para slides. Domina design system, hierarquia visual e principios de UI para conteudo social.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill carousel-designer",
+      "githubPath": "skills/design/carousel-designer/SKILL.md"
+    },
+    {
+      "slug": "carousel-juan",
+      "name": "carousel-juan",
+      "description": "|",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill carousel-juan",
+      "githubPath": "skills/design/carousel-juan/SKILL.md"
+    },
+    {
+      "slug": "carrossel-de-clientes",
+      "name": "carrossel-de-clientes",
+      "description": "|",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill carrossel-de-clientes",
+      "githubPath": "skills/design/carrossel-de-clientes/SKILL.md"
+    },
+    {
+      "slug": "check-360",
+      "name": "check-360",
+      "description": "Diagnostico rapido da sessao Claude Code do Juan. Reporta modelo Layer 1 (agente principal), Layer 2 (subagents disponiveis e seus modelos), MCPs conectados, skills carregadas e PM2 da VPS quando aplicavel. Use quando Juan pedir \"check 360\", \"checagem\", \"como voce ta\", \"saude da sessao\", \"self check\", \"diagnostico\", \"voce esta operacional\", \"que modelo voce ta usando\", \"quais mcps\", \"quantas skill",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill check-360",
+      "githubPath": "skills/general/check-360/SKILL.md"
+    },
+    {
+      "slug": "churn-prevention",
+      "name": "churn-prevention",
+      "description": "When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or implement retention strategies. Also use when the user mentions 'churn,' 'cancel flow,' 'offboarding,' 'save offer,' 'dunning,' 'failed payment recovery,' 'win-back,' 'retention,' 'exit survey,' 'pause subscription,' 'involuntary churn,' 'people keep canceling,' 'churn rate is too high,' ",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill churn-prevention",
+      "githubPath": "skills/general/churn-prevention/SKILL.md"
+    },
+    {
+      "slug": "ckm-banner-design",
+      "name": "ckm:banner-design",
+      "description": "Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direction options with AI-generated visuals. Actions: design, create, generate banner. Platforms: Facebook, Twitter/X, LinkedIn, YouTube, Instagram, Google Display, website hero, print. Styles: minimalist, gradient, bold typography, photo-based, illustrated, geometric, retro, glassmorphism, 3D, neon, duo",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ckm-banner-design",
+      "githubPath": "skills/design/ckm-banner-design/SKILL.md"
+    },
+    {
+      "slug": "ckm-brand",
+      "name": "ckm:brand",
+      "description": "Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate for branded content, tone of voice, marketing assets, brand compliance, style guides.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ckm-brand",
+      "githubPath": "skills/design/ckm-brand/SKILL.md"
+    },
+    {
+      "slug": "ckm-design",
+      "name": "ckm:design",
+      "description": "Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles, Gemini AI), corporate identity program (50 deliverables, CIP mockups), HTML presentations (Chart.js), banner design (22 styles, social/ads/web/print), icon design (15 styles, SVG, Gemini 3.1 Pro), social photos (HTML→screenshot, multi-platform). Actions: design logo, create CIP, generate mockups, bui",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ckm-design",
+      "githubPath": "skills/design/ckm-design/SKILL.md"
+    },
+    {
+      "slug": "ckm-design-system",
+      "name": "ckm:design-system",
+      "description": "Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales, component specs, strategic slide creation. Use for design tokens, systematic design, brand-compliant presentations.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ckm-design-system",
+      "githubPath": "skills/design/ckm-design-system/SKILL.md"
+    },
+    {
+      "slug": "ckm-slides",
+      "name": "ckm:slides",
+      "description": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ckm-slides",
+      "githubPath": "skills/design/ckm-slides/SKILL.md"
+    },
+    {
+      "slug": "ckm-ui-styling",
+      "name": "ckm:ui-styling",
+      "description": "Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user interfaces, implementing design systems, creating responsive layouts, adding accessible components (dialogs, dropdowns, forms, tables), customizing themes and colors, implementing dark mode, generating vis",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ckm-ui-styling",
+      "githubPath": "skills/design/ckm-ui-styling/SKILL.md"
+    },
+    {
+      "slug": "cli-anything",
+      "name": "cli-anything",
+      "description": "Use when the user wants Codex to build, refine, test, or validate a CLI-Anything harness for a GUI application or source repository. Adapts the CLI-Anything methodology to Codex without changing the generated Python harness format.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill cli-anything",
+      "githubPath": "skills/general/cli-anything/SKILL.md"
+    },
+    {
+      "slug": "cli-hub-meta-skill",
+      "name": "cli-hub-meta-skill",
+      "description": ">-",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill cli-hub-meta-skill",
+      "githubPath": "skills/general/cli-hub-meta-skill/SKILL.md"
+    },
+    {
+      "slug": "client-meeting-prep",
+      "name": "client-meeting-prep",
+      "description": "Prepare for an upcoming delivery/operational call with an existing client by running the 9-step prep workflow that proved out with Mathis Kennington 2026-05-04. Triggers on phrasings like \"amanhã call com X\", \"tomorrow's call with X\", \"isso que ele vai querer amanhã\", \"prepara reunião pra X\", \"vou falar com X amanhã\", or when a client audio/voice memo lands in docs/audios/. Use whenever the call h",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill client-meeting-prep",
+      "githubPath": "skills/general/client-meeting-prep/SKILL.md"
+    },
+    {
+      "slug": "cliente-manutencao",
+      "name": "cliente-manutencao",
+      "description": "Manutenção rotineira de VPS de cliente. Health check, deploy, restart, logs, updates, troubleshooting. Auto-discovers VPS info from docs/tasks/vps-setup/README.md no repo do cliente. Use quando Juan pedir \"checar VPS do <cliente>\", \"atualizar pacotes do <cliente>\", \"deployar <cliente>\", \"logs do <cliente>\", ou trabalhar em qualquer pasta de cliente em ~/code/clientes/.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill cliente-manutencao",
+      "githubPath": "skills/ops/cliente-manutencao/SKILL.md"
+    },
+    {
+      "slug": "codex",
+      "name": "codex",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill codex",
+      "githubPath": "skills/general/codex/SKILL.md"
+    },
+    {
+      "slug": "cold-dm-pipeline",
+      "name": "cold-dm-pipeline",
+      "description": "Pipeline reutilizável de cold DM via Instagram, configurável por empresa/nicho. Scrape → enrich (LLM) → quality filter → human approval → send com pacing seguro → analytics dashboard. Use quando pedir \"rodar prospecção pra empresa X\", \"criar campanha de cold DM no IG\", \"scrape coaches/SaaS founders/dentists/etc\". Funciona via config JSON: zero código novo por nova empresa, só novo config.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill cold-dm-pipeline",
+      "githubPath": "skills/sales/cold-dm-pipeline/SKILL.md"
+    },
+    {
+      "slug": "cold-email",
+      "name": "cold-email",
+      "description": "Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write cold outreach emails, prospecting emails, cold email campaigns, sales development emails, or SDR emails. Also use when the user mentions \"cold outreach,\" \"prospecting email,\" \"outbound email,\" \"email to leads,\" \"reach out to prospects,\" \"sales email,\" \"follow-up email sequence,\" \"nobody's replying to m",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill cold-email",
+      "githubPath": "skills/sales/cold-email/SKILL.md"
+    },
+    {
+      "slug": "communicate",
+      "name": "communicate",
+      "description": "Comunicacao com time e contatos via WhatsApp (wacli/wa) e Google Chat (webhook). Ativa quando Juan pedir pra mandar mensagem, comunicar time, enviar resumo, notificar grupo, ler mensagens, buscar historico, ou listar contatos/grupos. ATIVA PROATIVAMENTE (sem Juan pedir) quando deploy concluido, status rapido atualizado, task critica terminada, erro bloqueante em producao, ou marco importante concl",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill communicate",
+      "githubPath": "skills/ops/communicate/SKILL.md"
+    },
+    {
+      "slug": "competitor-alternatives",
+      "name": "competitor-alternatives",
+      "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' 'competitive landing pages,' 'how do we compare to X,' 'battle card,' or 'competitor teardown.' Use this for any content that positions you",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill competitor-alternatives",
+      "githubPath": "skills/general/competitor-alternatives/SKILL.md"
+    },
+    {
+      "slug": "content-planner",
+      "name": "content-planner",
+      "description": "Planejamento editorial e calendario de conteudo. Ativa quando pedir pra planejar conteudo da semana/mes, criar calendario editorial, definir pilares de conteudo, organizar pipeline de posts, ou estrategia de conteudo para redes sociais.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill content-planner",
+      "githubPath": "skills/general/content-planner/SKILL.md"
+    },
+    {
+      "slug": "content-researcher",
+      "name": "content-researcher",
+      "description": "Pesquisa aprofundada de temas para conteudo digital. Ativa quando pedir pesquisa de mercado, analise de nicho, tendencias, benchmarking de concorrentes, ou briefing de tema para posts/carrosseis. Usa web search, analise de dados e frameworks estrategicos.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill content-researcher",
+      "githubPath": "skills/general/content-researcher/SKILL.md"
+    },
+    {
+      "slug": "content-strategy",
+      "name": "content-strategy",
+      "description": "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content strategy,\" \"what should I write about,\" \"content ideas,\" \"blog strategy,\" \"topic clusters,\" \"content planning,\" \"editorial calendar,\" \"content marketing,\" \"content roadmap,\" \"what content should I create,\" \"blog topics,\" \"content pillars,\" or \"",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill content-strategy",
+      "githubPath": "skills/general/content-strategy/SKILL.md"
+    },
+    {
+      "slug": "continuous-learning-v2",
+      "name": "continuous-learning-v2",
+      "description": "Instinct-based learning system that observes sessions via hooks, creates atomic instincts with confidence scoring, and evolves them into skills/commands/agents.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill continuous-learning-v2",
+      "githubPath": "skills/ops/continuous-learning-v2/SKILL.md"
+    },
+    {
+      "slug": "contract-review",
+      "name": "contract-review",
+      "description": "Review legal contracts, NDAs, employment agreements, SaaS terms, and M&A documents. Identifies unfavorable terms, suggests redlines, and compares to market standards. Use for contract analysis, due diligence, or negotiation prep.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill contract-review",
+      "githubPath": "skills/general/contract-review/SKILL.md"
+    },
+    {
+      "slug": "copy-editing",
+      "name": "copy-editing",
+      "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' 'copy sweep,' 'tighten this up,' 'this reads awkwardly,' 'clean up this text,' 'too wordy,' or 'sharpen the messaging.' Use this when the user already has copy and wants it improved rather than ",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill copy-editing",
+      "githubPath": "skills/sales/copy-editing/SKILL.md"
+    },
+    {
+      "slug": "copywriter",
+      "name": "copywriter",
+      "description": "Copywriter profissional para conteudo digital. Ativa quando pedir pra escrever copy, legenda, headline, hook, CTA, caption de post, texto de carrossel, thread, ou qualquer texto persuasivo. Domina frameworks de copy (AIDA, PAS, BAB) e adapta tom por plataforma.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill copywriter",
+      "githubPath": "skills/sales/copywriter/SKILL.md"
+    },
+    {
+      "slug": "copywriting",
+      "name": "copywriting",
+      "description": "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" \"CTA copy,\" \"value proposition,\" \"tagline,\" \"subheadline,\" \"hero section copy,\" \"above the fold,\" \"th",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill copywriting",
+      "githubPath": "skills/sales/copywriting/SKILL.md"
+    },
+    {
+      "slug": "cso",
+      "name": "cso",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill cso",
+      "githubPath": "skills/general/cso/SKILL.md"
+    },
+    {
+      "slug": "css-animations",
+      "name": "css-animations",
+      "description": "CSS animation adapter patterns for HyperFrames. Use when authoring CSS keyframes, animation-delay based timing, animation-fill-mode, animation-play-state, or CSS-only motion that HyperFrames must seek deterministically during preview and rendering.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill css-animations",
+      "githubPath": "skills/design/css-animations/SKILL.md"
+    },
+    {
+      "slug": "database-migrations",
+      "name": "database-migrations",
+      "description": "Database migration best practices for schema changes, data migrations, rollbacks, and zero-downtime deployments across PostgreSQL, MySQL, and common ORMs (Prisma, Drizzle, Django, TypeORM, golang-migrate).",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill database-migrations",
+      "githubPath": "skills/dev/database-migrations/SKILL.md"
+    },
+    {
+      "slug": "deployment-patterns",
+      "name": "deployment-patterns",
+      "description": "Deployment workflows, CI/CD pipeline patterns, Docker containerization, health checks, rollback strategies, and production readiness checklists for web applications.",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill deployment-patterns",
+      "githubPath": "skills/dev/deployment-patterns/SKILL.md"
+    },
+    {
+      "slug": "design-consultation",
+      "name": "design-consultation",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill design-consultation",
+      "githubPath": "skills/general/design-consultation/SKILL.md"
+    },
+    {
+      "slug": "design-md",
+      "name": "design-md",
+      "description": "Modular themeable design system for every HTML document. Use whenever generating ANY human-facing HTML — reports, dashboards, proposals, visual explainers, client materials. Produces self-contained HTML built from a semantic component kit, themed by DESIGN.md, with an embedded live theme picker. Triggers — \"gera HTML\", \"relatório visual\", \"report\", \"dashboard\", \"proposta\", \"documento visual\", \"pág",
+      "category": "design",
+      "source": "hive",
+      "layer": "l1",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill design-md",
+      "githubPath": "skills/design/design-md/SKILL.md"
+    },
+    {
+      "slug": "design-review",
+      "name": "design-review",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill design-review",
+      "githubPath": "skills/general/design-review/SKILL.md"
+    },
+    {
+      "slug": "document-release",
+      "name": "document-release",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill document-release",
+      "githubPath": "skills/general/document-release/SKILL.md"
+    },
+    {
+      "slug": "dogfood",
+      "name": "dogfood",
+      "description": "Exploratory QA of web apps: find bugs, evidence, reports.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill dogfood",
+      "githubPath": "skills/ops/dogfood/SKILL.md"
+    },
+    {
+      "slug": "email-sequence",
+      "name": "email-sequence",
+      "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions \"email sequence,\" \"drip campaign,\" \"nurture sequence,\" \"onboarding emails,\" \"welcome sequence,\" \"re-engagement emails,\" \"email automation,\" \"lifecycle emails,\" \"trigger-based emails,\" \"email funnel,\" \"email workflow,\" \"what emails should I se",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill email-sequence",
+      "githubPath": "skills/sales/email-sequence/SKILL.md"
+    },
+    {
+      "slug": "emil-design-eng",
+      "name": "emil-design-eng",
+      "description": "This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill emil-design-eng",
+      "githubPath": "skills/design/emil-design-eng/SKILL.md"
+    },
+    {
+      "slug": "eval-harness",
+      "name": "eval-harness",
+      "description": "Formal evaluation framework for Claude Code sessions implementing eval-driven development (EDD) principles",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill eval-harness",
+      "githubPath": "skills/dev/eval-harness/SKILL.md"
+    },
+    {
+      "slug": "executing-plans",
+      "name": "executing-plans",
+      "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill executing-plans",
+      "githubPath": "skills/general/executing-plans/SKILL.md"
+    },
+    {
+      "slug": "extract-instagram-carousel",
+      "name": "extract-instagram-carousel",
+      "description": "Use when the user shares an Instagram post URL and wants to extract text, prompts, or content from carousel images. Works without manual screenshots.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill extract-instagram-carousel",
+      "githubPath": "skills/design/extract-instagram-carousel/SKILL.md"
+    },
+    {
+      "slug": "finance-advisor",
+      "name": "finance-skills",
+      "description": "Financial analyst agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. Ratio analysis, DCF valuation, budget variance, rolling forecasts. 4 Python tools (stdlib-only).",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill finance-advisor",
+      "githubPath": "skills/general/finance-advisor/SKILL.md"
+    },
+    {
+      "slug": "finding-duplicate-functions",
+      "name": "finding-duplicate-functions",
+      "description": "Use when auditing a codebase for semantic duplication - functions that do the same thing but have different names or implementations. Especially useful for LLM-generated codebases where new functions are often created rather than reusing existing ones.",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill finding-duplicate-functions",
+      "githubPath": "skills/dev/finding-duplicate-functions/SKILL.md"
+    },
+    {
+      "slug": "finishing-a-development-branch",
+      "name": "finishing-a-development-branch",
+      "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill finishing-a-development-branch",
+      "githubPath": "skills/dev/finishing-a-development-branch/SKILL.md"
+    },
+    {
+      "slug": "form-cro",
+      "name": "form-cro",
+      "description": "When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms. Also use when the user mentions \"form optimization,\" \"lead form conversions,\" \"form friction,\" \"form fields,\" \"form completion rate,\" \"contact form,\" \"nobody fills out our form,\" \"form abandonment,\" \"too many",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill form-cro",
+      "githubPath": "skills/general/form-cro/SKILL.md"
+    },
+    {
+      "slug": "free-tool-strategy",
+      "name": "free-tool-strategy",
+      "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as marketing,\" \"free tool,\" \"marketing tool,\" \"calculator,\" \"generator,\" \"interactive tool,\" \"lead gen tool,\" \"build a tool for leads,\" \"free resource,\" \"ROI calculator,\" \"grader tool,\" \"audit tool,\" \"should I build a free",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill free-tool-strategy",
+      "githubPath": "skills/general/free-tool-strategy/SKILL.md"
+    },
+    {
+      "slug": "freeze",
+      "name": "freeze",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill freeze",
+      "githubPath": "skills/general/freeze/SKILL.md"
+    },
+    {
+      "slug": "frontend-design",
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill frontend-design",
+      "githubPath": "skills/design/frontend-design/SKILL.md"
+    },
+    {
+      "slug": "frontend-patterns",
+      "name": "frontend-patterns",
+      "description": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices.",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill frontend-patterns",
+      "githubPath": "skills/dev/frontend-patterns/SKILL.md"
+    },
+    {
+      "slug": "generate-image",
+      "name": "generate-image",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill generate-image",
+      "githubPath": "skills/general/generate-image/SKILL.md"
+    },
+    {
+      "slug": "generic-publisher",
+      "name": "generic-publisher",
+      "description": "Publica qualquer conteúdo HTML no servidor do Juan Hub.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill generic-publisher",
+      "githubPath": "skills/ops/generic-publisher/SKILL.md"
+    },
+    {
+      "slug": "graphify",
+      "name": "graphify",
+      "description": "any input (code, docs, papers, images) - knowledge graph - clustered communities - HTML + JSON + audit report",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill graphify",
+      "githubPath": "skills/dev/graphify/SKILL.md"
+    },
+    {
+      "slug": "gsap",
+      "name": "gsap",
+      "description": "GSAP animation reference for HyperFrames. Covers gsap.to(), from(), fromTo(), easing, stagger, defaults, timelines (gsap.timeline(), position parameter, labels, nesting, playback), and performance (transforms, will-change, quickTo). Use when writing GSAP animations in HyperFrames compositions.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill gsap",
+      "githubPath": "skills/design/gsap/SKILL.md"
+    },
+    {
+      "slug": "gstack-upgrade",
+      "name": "gstack-upgrade",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill gstack-upgrade",
+      "githubPath": "skills/general/gstack-upgrade/SKILL.md"
+    },
+    {
+      "slug": "guard",
+      "name": "guard",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill guard",
+      "githubPath": "skills/general/guard/SKILL.md"
+    },
+    {
+      "slug": "hyperframes",
+      "name": "hyperframes",
+      "description": "Create video compositions, animations, title cards, overlays, captions, voiceovers, audio-reactive visuals, and scene transitions in HyperFrames HTML. Use when asked to build any HTML-based video content, add captions or subtitles synced to audio, generate text-to-speech narration, create audio-reactive animation (beat sync, glow, pulse driven by music), add animated text highlighting (marker swee",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill hyperframes",
+      "githubPath": "skills/design/hyperframes/SKILL.md"
+    },
+    {
+      "slug": "hyperframes-cli",
+      "name": "hyperframes-cli",
+      "description": "HyperFrames CLI dev loop — `npx hyperframes` for scaffolding (init), validation (lint, inspect), preview, render, and environment troubleshooting (doctor, browser, info, upgrade). Use when running any of these commands or troubleshooting the HyperFrames build/render environment. For asset preprocessing commands (`tts`, `transcribe`, `remove-background`), invoke the `hyperframes-media` skill instea",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill hyperframes-cli",
+      "githubPath": "skills/design/hyperframes-cli/SKILL.md"
+    },
+    {
+      "slug": "hyperframes-media",
+      "name": "hyperframes-media",
+      "description": "Asset preprocessing for HyperFrames compositions — text-to-speech narration (Kokoro), audio/video transcription (Whisper), and background removal for transparent overlays (u2net). Use when generating voiceover from text, transcribing speech for captions, removing the background from a video or image to use as a transparent overlay, choosing a TTS voice or whisper model, or chaining these (TTS → tr",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill hyperframes-media",
+      "githubPath": "skills/design/hyperframes-media/SKILL.md"
+    },
+    {
+      "slug": "iniciativas",
+      "name": "iniciativas",
+      "description": "Triagem on-demand de iniciativas e ideias do Juan. Lê docs/tasks/*/README.md + docs/BACKLOG.md + git log de cada repo, classifica por status (bloqueadas, NEXT paradas, PLANNED esquecidas, backlog maduro) e sugere próxima ação. Ativa quando Juan pedir \"iniciativas\", \"o que tá parado\", \"triagem\", \"o que eu devo retomar\", \"como tão meus projetos\", \"radar de projetos\", ou quando rodar /iniciativas.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill iniciativas",
+      "githubPath": "skills/ops/iniciativas/SKILL.md"
+    },
+    {
+      "slug": "investigate",
+      "name": "investigate",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill investigate",
+      "githubPath": "skills/general/investigate/SKILL.md"
+    },
+    {
+      "slug": "job-briefing",
+      "name": "job-briefing",
+      "description": "Morning briefing — scan novas vagas, prioriza oportunidades, planeja o dia de job search. Uso - /job-briefing [keywords]",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill job-briefing",
+      "githubPath": "skills/general/job-briefing/SKILL.md"
+    },
+    {
+      "slug": "job-cold-apply",
+      "name": "job-cold-apply",
+      "description": "Scrapa vagas de multiplas plataformas, gera cold emails personalizados, e envia via Gmail. 100% gratis e sem CAPTCHA. Uso - /job-cold-apply [keywords] [action]",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill job-cold-apply",
+      "githubPath": "skills/general/job-cold-apply/SKILL.md"
+    },
+    {
+      "slug": "job-cv-tailor",
+      "name": "job-cv-tailor",
+      "description": "Customiza CV e cover letter para uma vaga especifica. Analisa job description, destaca skills relevantes, gera versao otimizada. Uso - /job-cv-tailor [job-url ou job-description]",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill job-cv-tailor",
+      "githubPath": "skills/general/job-cv-tailor/SKILL.md"
+    },
+    {
+      "slug": "job-interview-prep",
+      "name": "job-interview-prep",
+      "description": "Preparacao completa para entrevista — research da empresa, perguntas tecnicas, mock interview, thank-you email. Uso - /job-interview-prep [company] [role]",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill job-interview-prep",
+      "githubPath": "skills/general/job-interview-prep/SKILL.md"
+    },
+    {
+      "slug": "job-tracker",
+      "name": "job-tracker",
+      "description": "Pipeline de candidaturas — visualiza, atualiza status, follow-ups, stats. Uso - /job-tracker [status|update|followups|stats|add]",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill job-tracker",
+      "githubPath": "skills/general/job-tracker/SKILL.md"
+    },
+    {
+      "slug": "land-and-deploy",
+      "name": "land-and-deploy",
+      "description": "|",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill land-and-deploy",
+      "githubPath": "skills/ops/land-and-deploy/SKILL.md"
+    },
+    {
+      "slug": "launch-strategy",
+      "name": "launch-strategy",
+      "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,' 'beta launch,' 'early access,' 'waitlist,' 'product update,' 'how do I launch this,' 'launch checklist,' 'GTM plan,' or 'we're about to ship.' Use this whenever someone is preparing to release something",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill launch-strategy",
+      "githubPath": "skills/general/launch-strategy/SKILL.md"
+    },
+    {
+      "slug": "lead-magnets",
+      "name": "lead-magnets",
+      "description": "When the user wants to create, plan, or optimize a lead magnet for email capture or lead generation. Also use when the user mentions \"lead magnet,\" \"gated content,\" \"content upgrade,\" \"downloadable,\" \"ebook,\" \"cheat sheet,\" \"checklist,\" \"template download,\" \"opt-in,\" \"freebie,\" \"PDF download,\" \"resource library,\" \"content offer,\" \"email capture content,\" \"Notion template,\" \"spreadsheet template,\" ",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill lead-magnets",
+      "githubPath": "skills/sales/lead-magnets/SKILL.md"
+    },
+    {
+      "slug": "lean-ctx",
+      "name": "lean-ctx",
+      "description": "Context Runtime for AI Agents — 46 MCP tools, 10 read modes, 90+ shell patterns, tree-sitter AST for 18 languages. Compresses LLM context by up to 99%. Use when reading files, running shell commands, searching code, or exploring directories. Auto-installs if not present.",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill lean-ctx",
+      "githubPath": "skills/dev/lean-ctx/SKILL.md"
+    },
+    {
+      "slug": "linkedin-apply",
+      "name": "linkedin-apply",
+      "description": "Aplica automaticamente em vagas de Easy Apply no LinkedIn. Importa cookies do Chrome, navega na busca, preenche formularios e envia candidaturas. Salva no tracker. Uso - /linkedin-apply [keywords] [region]",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill linkedin-apply",
+      "githubPath": "skills/general/linkedin-apply/SKILL.md"
+    },
+    {
+      "slug": "logo-designer",
+      "name": "logo-designer",
+      "description": "|",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill logo-designer",
+      "githubPath": "skills/design/logo-designer/SKILL.md"
+    },
+    {
+      "slug": "marketing-ideas",
+      "name": "marketing-ideas",
+      "description": "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' 'ideas to grow,' 'what else can I try,' 'I don't know how to market this,' 'brainstorm marketing,' or 'what marketing should I do.' Use this as a starti",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill marketing-ideas",
+      "githubPath": "skills/general/marketing-ideas/SKILL.md"
+    },
+    {
+      "slug": "marketing-psychology",
+      "name": "marketing-psychology",
+      "description": "When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' 'consumer behavior,' 'anchoring,' 'social proof,' 'scarcity,' 'loss aversion,' 'framing,' or 'nudge.' Use this whenever someone wants to und",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill marketing-psychology",
+      "githubPath": "skills/general/marketing-psychology/SKILL.md"
+    },
+    {
+      "slug": "mcp-builder",
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill mcp-builder",
+      "githubPath": "skills/dev/mcp-builder/SKILL.md"
+    },
+    {
+      "slug": "mcp-cli",
+      "name": "mcp-cli",
+      "description": "Use MCP servers on-demand via the mcp CLI tool - discover tools, resources, and prompts without polluting context with pre-loaded MCP integrations",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill mcp-cli",
+      "githubPath": "skills/dev/mcp-cli/SKILL.md"
+    },
+    {
+      "slug": "notify-team",
+      "name": "notify-team",
+      "description": "Use when a major feature, deploy, homepage change, or Shopify theme update has just been completed. Generates a short English team notification with a summary of changes and all relevant live links for review.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill notify-team",
+      "githubPath": "skills/ops/notify-team/SKILL.md"
+    },
+    {
+      "slug": "office-hours",
+      "name": "office-hours",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill office-hours",
+      "githubPath": "skills/general/office-hours/SKILL.md"
+    },
+    {
+      "slug": "onboarding-cro",
+      "name": "onboarding-cro",
+      "description": "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions \"onboarding flow,\" \"activation rate,\" \"user activation,\" \"first-run experience,\" \"empty states,\" \"onboarding checklist,\" \"aha moment,\" \"new user experience,\" \"users aren't activating,\" \"nobody completes setup,\" \"low activation rate,\" \"users sign up but do",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill onboarding-cro",
+      "githubPath": "skills/general/onboarding-cro/SKILL.md"
+    },
+    {
+      "slug": "page-cro",
+      "name": "page-cro",
+      "description": "When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says \"CRO,\" \"conversion rate optimization,\" \"this page isn't converting,\" \"improve conversions,\" \"why isn't this page working,\" \"my landing page sucks,\" \"nobody's converting,\" \"low conversion rate,\" \"bounce ",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill page-cro",
+      "githubPath": "skills/general/page-cro/SKILL.md"
+    },
+    {
+      "slug": "paid-ads",
+      "name": "paid-ads",
+      "description": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' 'audience targeting,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'ad budget,' 'cost per click,' 'ad spend,' or 'should I run ads.' Use this for campaign str",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill paid-ads",
+      "githubPath": "skills/general/paid-ads/SKILL.md"
+    },
+    {
+      "slug": "painel-controle-projeto",
+      "name": "painel-controle-projeto",
+      "description": "Painel de controle vivo de projeto/produto do Juan. Cockpit denso, escaneável, no padrão brand v4.1, com 8 abas (Visão · Trabalho · Arquitetura · Decisões · Monetização · Integrações · Status · Materiais · Próximos). NÃO é landing — é sistema de controle. Toda ação no projeto atualiza o painel. Triggers — \"painel de controle\", \"cockpit do <projeto>\", \"abre painel do X\", \"atualiza painel\", \"cria pa",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill painel-controle-projeto",
+      "githubPath": "skills/general/painel-controle-projeto/SKILL.md"
+    },
+    {
+      "slug": "paywall-upgrade-cro",
+      "name": "paywall-upgrade-cro",
+      "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,\" \"upsell,\" \"feature gate,\" \"convert free to paid,\" \"freemium conversion,\" \"trial expiration screen,\" \"limit reached screen,\" \"plan upgrade prompt,\" \"in-app pricing,\" \"free users won't upgrade,\" \"trial to paid conve",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill paywall-upgrade-cro",
+      "githubPath": "skills/general/paywall-upgrade-cro/SKILL.md"
+    },
+    {
+      "slug": "pdf",
+      "name": "pdf",
+      "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill pdf",
+      "githubPath": "skills/general/pdf/SKILL.md"
+    },
+    {
+      "slug": "penguin-blog-publisher",
+      "name": "penguin-blog-publisher",
+      "description": "Use when generating, managing, or publishing blog articles for the Penguin Method brand. Covers the full pipeline: AI generation with Claude 4.6 via OpenRouter, image generation with FreePik Mystic (PenguinPete character references), and publishing to Shopify as hidden draft.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill penguin-blog-publisher",
+      "githubPath": "skills/ops/penguin-blog-publisher/SKILL.md"
+    },
+    {
+      "slug": "pixel-art",
+      "name": "pixel-art",
+      "description": "Cartoon-flat illustrations no estilo cofounder.co — paisagem digital com paleta céu pastel + grama vibrante + off-white, vetor flat polido sem pixels visíveis. Gera via Replicate google/nano-banana-2. Use quando Juan pedir \"pixel art\", \"imagem estilo cofounder\", \"ilustração landing\", \"cena cartoon pra hero\", \"gera hero pra welcome\", ou quando precisar de hero/cards visuais com estética cofounder p",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill pixel-art",
+      "githubPath": "skills/design/pixel-art/SKILL.md"
+    },
+    {
+      "slug": "plan-ceo-review",
+      "name": "plan-ceo-review",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill plan-ceo-review",
+      "githubPath": "skills/general/plan-ceo-review/SKILL.md"
+    },
+    {
+      "slug": "plan-design-review",
+      "name": "plan-design-review",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill plan-design-review",
+      "githubPath": "skills/general/plan-design-review/SKILL.md"
+    },
+    {
+      "slug": "plan-eng-review",
+      "name": "plan-eng-review",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill plan-eng-review",
+      "githubPath": "skills/general/plan-eng-review/SKILL.md"
+    },
+    {
+      "slug": "popup-cro",
+      "name": "popup-cro",
+      "description": "When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also use when the user mentions \"exit intent,\" \"popup conversions,\" \"modal optimization,\" \"lead capture popup,\" \"email popup,\" \"announcement banner,\" \"overlay,\" \"collect emails with a popup,\" \"exit popup,\" \"scroll trigger,\" \"sticky bar,\" or \"notification bar.\" Use this for any overlay",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill popup-cro",
+      "githubPath": "skills/general/popup-cro/SKILL.md"
+    },
+    {
+      "slug": "post-writer",
+      "name": "post-writer",
+      "description": "Escritor de posts completos para redes sociais. Ativa quando pedir pra escrever um post, criar conteudo pronto pra publicar, gerar carrossel completo (texto + estrutura), ou produzir thread. Orquestra research + copy + estrutura em um output final publicavel.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill post-writer",
+      "githubPath": "skills/general/post-writer/SKILL.md"
+    },
+    {
+      "slug": "pricing-strategy",
+      "name": "pricing-strategy",
+      "description": "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' 'monetization,' 'how much should I charge,' 'my pricing is wrong,' 'pricing page,' 'annual vs monthly,' 'per seat pricing,' or 'should I offe",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill pricing-strategy",
+      "githubPath": "skills/general/pricing-strategy/SKILL.md"
+    },
+    {
+      "slug": "product-marketing-context",
+      "name": "product-marketing-context",
+      "description": "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to avoid repeating foundational information across marketing tasks. Use this at the start of any new project before usi",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill product-marketing-context",
+      "githubPath": "skills/general/product-marketing-context/SKILL.md"
+    },
+    {
+      "slug": "programmatic-seo",
+      "name": "programmatic-seo",
+      "description": "When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions \"programmatic SEO,\" \"template pages,\" \"pages at scale,\" \"directory pages,\" \"location pages,\" \"[keyword] + [city] pages,\" \"comparison pages,\" \"integration pages,\" \"building many pages for SEO,\" \"pSEO,\" \"generate 100 pages,\" \"data-driven pages,\" or \"templated landing pages.\" Use this whe",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill programmatic-seo",
+      "githubPath": "skills/general/programmatic-seo/SKILL.md"
+    },
+    {
+      "slug": "propostas-publisher",
+      "name": "propostas-publisher",
+      "description": "Publica propostas comerciais no servidor do Juan Hub de forma automatizada.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill propostas-publisher",
+      "githubPath": "skills/ops/propostas-publisher/SKILL.md"
+    },
+    {
+      "slug": "prospectar",
+      "name": "prospectar",
+      "description": "Pipeline completo de prospecção B2B. Ativa quando pedir pra prospectar leads, enriquecer dados, gerar landing pages, ou disparar outreach via WhatsApp. Orquestra scraping + AI analysis + landing page + deploy + WhatsApp queue.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill prospectar",
+      "githubPath": "skills/sales/prospectar/SKILL.md"
+    },
+    {
+      "slug": "prospectar-instagram",
+      "name": "prospectar-instagram",
+      "description": "Pipeline automatizado de prospecção no Instagram. Scrape likers de posts sobre AI/Claude Code, filtra por ICP (tem URL, 100-15K followers, business bio, não é content creator), gera mensagem de conexão + primeira DM via Gemini seguindo template de social selling. Output markdown pronto pra copiar e enviar. Use quando pedir \"pega 20 leads\", \"prospecta no Instagram\", \"rodar pipeline de leads\", \"scra",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill prospectar-instagram",
+      "githubPath": "skills/sales/prospectar-instagram/SKILL.md"
+    },
+    {
+      "slug": "qa",
+      "name": "qa",
+      "description": "|",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill qa",
+      "githubPath": "skills/dev/qa/SKILL.md"
+    },
+    {
+      "slug": "qa-only",
+      "name": "qa-only",
+      "description": "|",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill qa-only",
+      "githubPath": "skills/dev/qa-only/SKILL.md"
+    },
+    {
+      "slug": "radar",
+      "name": "radar",
+      "description": "Radar diário de reels virais no Instagram. Pipeline completa (scrape → filter → deep-clone → digest) que entrega top 5+ reels/dia com mp4 baixado, transcrição PT/EN, strategy breakdown e adapted_script na voice do Juan. Ativa quando pedir \"rodar radar\", \"abrir radar\", \"ver dashboard de reels\", \"gerar digest de viral\", \"scrape criadores IG\", \"atualizar radar\", \"rodar pipeline IG\", \"radar de hoje\", ",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill radar",
+      "githubPath": "skills/ops/radar/SKILL.md"
+    },
+    {
+      "slug": "react-portal-modals",
+      "name": "react-portal-modals",
+      "description": "Use when building modals, drawers, tooltips or any overlay in React/Next.js apps that use a complex layout (sidebar, AppShell, dashboard). Prevents fixed positioning from being clipped by parent stacking contexts.",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill react-portal-modals",
+      "githubPath": "skills/dev/react-portal-modals/SKILL.md"
+    },
+    {
+      "slug": "receiving-code-review",
+      "name": "receiving-code-review",
+      "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill receiving-code-review",
+      "githubPath": "skills/dev/receiving-code-review/SKILL.md"
+    },
+    {
+      "slug": "referral-program",
+      "name": "referral-program",
+      "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of mouth,' 'viral loop,' 'refer a friend,' 'partner program,' 'referral incentive,' 'how to get referrals,' 'customers referring customers,' or 'affiliate payout.' Use this whenever someone wants existing ",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill referral-program",
+      "githubPath": "skills/general/referral-program/SKILL.md"
+    },
+    {
+      "slug": "remotion-ads",
+      "name": "remotion-ads",
+      "description": "Professional video ad creation with Remotion — Instagram Reels (9:16), website explainers (16:9), and carousels (4:5). Use when creating video ads, animated social content, or educational explainer videos. Includes ElevenLabs voiceover with word-level captions, AI icon generation, background music, ad copywriting frameworks, and Meta campaign management. Also use when the user provides a URL and w",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill remotion-ads",
+      "githubPath": "skills/design/remotion-ads/SKILL.md"
+    },
+    {
+      "slug": "requesting-code-review",
+      "name": "requesting-code-review",
+      "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill requesting-code-review",
+      "githubPath": "skills/dev/requesting-code-review/SKILL.md"
+    },
+    {
+      "slug": "retro",
+      "name": "retro",
+      "description": "|",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill retro",
+      "githubPath": "skills/dev/retro/SKILL.md"
+    },
+    {
+      "slug": "review",
+      "name": "review",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill review",
+      "githubPath": "skills/general/review/SKILL.md"
+    },
+    {
+      "slug": "revops",
+      "name": "revops",
+      "description": "When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales handoff processes. Also use when the user mentions 'RevOps,' 'revenue operations,' 'lead scoring,' 'lead routing,' 'MQL,' 'SQL,' 'pipeline stages,' 'deal desk,' 'CRM automation,' 'marketing-to-sales handoff,' 'data hygiene,' 'leads aren't getting to sales,' 'pipeline management,' 'lead qualification,",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill revops",
+      "githubPath": "skills/sales/revops/SKILL.md"
+    },
+    {
+      "slug": "sales",
+      "name": "sales",
+      "description": "You are a comprehensive AI sales intelligence and outreach system for Claude Code. You help founders, sales teams, agency owners, and solopreneurs research prospects, qualify leads, identify decision makers, generate personalized outreach, prepare for meetings, and build winning proposals — all from the command line.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales",
+      "githubPath": "skills/sales/sales/SKILL.md"
+    },
+    {
+      "slug": "sales-competitors",
+      "name": "sales-competitors",
+      "description": "You analyze what tools, services, and solutions a prospect currently uses and generate actionable battle cards for selling against each detected competitor. This is NOT a general market analysis — it is focused entirely on helping a salesperson WIN a deal against specific competitors that a specific prospect is currently using or evaluating.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-competitors",
+      "githubPath": "skills/sales/sales-competitors/SKILL.md"
+    },
+    {
+      "slug": "sales-contacts",
+      "name": "sales-contacts",
+      "description": "You are the decision maker intelligence engine for `/sales contacts <url>`. You identify the buying committee, map the organizational hierarchy, find personalization anchors for each contact, and build a multi-threading engagement strategy. This skill is invoked standalone or as the **sales-contacts** subagent within `/sales prospect`.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-contacts",
+      "githubPath": "skills/sales/sales-contacts/SKILL.md"
+    },
+    {
+      "slug": "sales-enablement",
+      "name": "sales-enablement",
+      "description": "When the user wants to create sales collateral, pitch decks, one-pagers, objection handling docs, or demo scripts. Also use when the user mentions 'sales deck,' 'pitch deck,' 'one-pager,' 'leave-behind,' 'objection handling,' 'deal-specific ROI analysis,' 'demo script,' 'talk track,' 'sales playbook,' 'proposal template,' 'buyer persona card,' 'help my sales team,' 'sales materials,' or 'what shou",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-enablement",
+      "githubPath": "skills/sales/sales-enablement/SKILL.md"
+    },
+    {
+      "slug": "sales-followup",
+      "name": "sales-followup",
+      "description": "You generate strategic follow-up email sequences for prospects after initial contact has been made. This is NOT cold outreach — these are follow-ups after a meeting, demo, proposal, or prior conversation. Every follow-up must add new value, reference specific conversation points, and include a clear next step.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-followup",
+      "githubPath": "skills/sales/sales-followup/SKILL.md"
+    },
+    {
+      "slug": "sales-icp",
+      "name": "sales-icp",
+      "description": "- **Title:** Ideal Customer Profile Builder",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-icp",
+      "githubPath": "skills/sales/sales-icp/SKILL.md"
+    },
+    {
+      "slug": "sales-objections",
+      "name": "sales-objections",
+      "description": "You generate comprehensive objection response scripts that salespeople can use in real-time during calls, meetings, and email exchanges. Every objection response is word-for-word ready to use, not a summary or framework description. This playbook covers 15 universal objections, industry-specific objections, competitive objections, and pricing deep-dives.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-objections",
+      "githubPath": "skills/sales/sales-objections/SKILL.md"
+    },
+    {
+      "slug": "sales-outreach",
+      "name": "sales-outreach",
+      "description": "You are the cold outreach engine for `/sales outreach <prospect>`. You generate complete, personalized, ready-to-send cold email sequences with integrated LinkedIn touchpoints. Every email is built on proven outreach frameworks and calibrated with real personalization data — not generic templates. This skill is invoked standalone or as the **sales-strategy** subagent within `/sales prospect`.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-outreach",
+      "githubPath": "skills/sales/sales-outreach/SKILL.md"
+    },
+    {
+      "slug": "sales-prep",
+      "name": "sales-prep",
+      "description": "You generate comprehensive meeting preparation briefs that give salespeople everything they need before walking into a prospect meeting. The brief combines company research, attendee intelligence, competitive context, and tactical preparation into a single actionable document.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-prep",
+      "githubPath": "skills/sales/sales-prep/SKILL.md"
+    },
+    {
+      "slug": "sales-proposal",
+      "name": "sales-proposal",
+      "description": "You generate professional, client-ready sales proposals that persuade, differentiate, and close deals. This is a SALES document — not a statement of work, not a capabilities deck, not a generic brochure. Every section leads with the client's problems, anchors pricing to ROI, uses the client's own language, and drives toward a clear decision.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-proposal",
+      "githubPath": "skills/sales/sales-proposal/SKILL.md"
+    },
+    {
+      "slug": "sales-prospect",
+      "name": "sales-prospect",
+      "description": "You are the full prospect audit engine for `/sales prospect <url>`. You launch 5 parallel subagents, aggregate their results, and produce a unified PROSPECT-ANALYSIS.md report that is ready-to-use and deal-focused.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-prospect",
+      "githubPath": "skills/sales/sales-prospect/SKILL.md"
+    },
+    {
+      "slug": "sales-qualify",
+      "name": "sales-qualify",
+      "description": "You are the lead qualification engine for `/sales qualify <url>`. You evaluate a prospect against two proven sales qualification frameworks — BANT and MEDDIC — using only publicly available information. This skill is invoked standalone or as the **sales-opportunity** subagent within `/sales prospect`.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-qualify",
+      "githubPath": "skills/sales/sales-qualify/SKILL.md"
+    },
+    {
+      "slug": "sales-report",
+      "name": "sales-report",
+      "description": "- **Title:** Sales Pipeline Report Generator",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-report",
+      "githubPath": "skills/sales/sales-report/SKILL.md"
+    },
+    {
+      "slug": "sales-report-pdf",
+      "name": "sales-report-pdf",
+      "description": "- **Title:** Professional Sales Report PDF Generator",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-report-pdf",
+      "githubPath": "skills/sales/sales-report-pdf/SKILL.md"
+    },
+    {
+      "slug": "sales-research",
+      "name": "sales-research",
+      "description": "You are the company research engine for `/sales research <url>`. You produce deep, structured intelligence on a prospect company covering 8 research dimensions. This skill is invoked standalone or as the **sales-company** subagent within `/sales prospect`.",
+      "category": "sales",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "cold-outreach",
+        "SDR",
+        "pricing",
+        "leads",
+        "CRM",
+        "email"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sales-research",
+      "githubPath": "skills/sales/sales-research/SKILL.md"
+    },
+    {
+      "slug": "schema-markup",
+      "name": "schema-markup",
+      "description": "When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user mentions \"schema markup,\" \"structured data,\" \"JSON-LD,\" \"rich snippets,\" \"schema.org,\" \"FAQ schema,\" \"product schema,\" \"review schema,\" \"breadcrumb schema,\" \"Google rich results,\" \"knowledge panel,\" \"star ratings in search,\" or \"add structured data.\" Use this whenever someone wants ",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill schema-markup",
+      "githubPath": "skills/general/schema-markup/SKILL.md"
+    },
+    {
+      "slug": "search-first",
+      "name": "search-first",
+      "description": "Research-before-coding workflow. Search for existing tools, libraries, and patterns before writing custom code. Invokes the researcher agent.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill search-first",
+      "githubPath": "skills/general/search-first/SKILL.md"
+    },
+    {
+      "slug": "security-review",
+      "name": "security-review",
+      "description": "Use this skill when adding authentication, handling user input, working with secrets, creating API endpoints, or implementing payment/sensitive features. Provides comprehensive security checklist and patterns.",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill security-review",
+      "githubPath": "skills/dev/security-review/SKILL.md"
+    },
+    {
+      "slug": "seo-audit",
+      "name": "seo-audit",
+      "description": "When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions \"SEO audit,\" \"technical SEO,\" \"why am I not ranking,\" \"SEO issues,\" \"on-page SEO,\" \"meta tags review,\" \"SEO health check,\" \"my traffic dropped,\" \"lost rankings,\" \"not showing up in Google,\" \"site isn't ranking,\" \"Google update hit me,\" \"page speed,\" \"core web vitals,\" \"crawl errors,\" or \"ind",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill seo-audit",
+      "githubPath": "skills/general/seo-audit/SKILL.md"
+    },
+    {
+      "slug": "setup-browser-cookies",
+      "name": "setup-browser-cookies",
+      "description": "|",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill setup-browser-cookies",
+      "githubPath": "skills/ops/setup-browser-cookies/SKILL.md"
+    },
+    {
+      "slug": "setup-deploy",
+      "name": "setup-deploy",
+      "description": "|",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill setup-deploy",
+      "githubPath": "skills/ops/setup-deploy/SKILL.md"
+    },
+    {
+      "slug": "ship",
+      "name": "ship",
+      "description": "|",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ship",
+      "githubPath": "skills/dev/ship/SKILL.md"
+    },
+    {
+      "slug": "signup-flow-cro",
+      "name": "signup-flow-cro",
+      "description": "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions \"signup conversions,\" \"registration friction,\" \"signup form optimization,\" \"free trial signup,\" \"reduce signup dropoff,\" \"account creation flow,\" \"people aren't signing up,\" \"signup abandonment,\" \"trial conversion rate,\" \"nobody completes registration,\" \"too many steps",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill signup-flow-cro",
+      "githubPath": "skills/general/signup-flow-cro/SKILL.md"
+    },
+    {
+      "slug": "site-architecture",
+      "name": "site-architecture",
+      "description": "When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or internal linking. Also use when the user mentions \"sitemap,\" \"site map,\" \"visual sitemap,\" \"site structure,\" \"page hierarchy,\" \"information architecture,\" \"IA,\" \"navigation design,\" \"URL structure,\" \"breadcrumbs,\" \"internal linking strategy,\" \"website planning,\" \"what pages do I need,\" \"h",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill site-architecture",
+      "githubPath": "skills/general/site-architecture/SKILL.md"
+    },
+    {
+      "slug": "sketch-illustration",
+      "name": "sketch-illustration",
+      "description": "Hand-drawn ink-sketch explainer illustrations with real brand logos and selective color accents (whiteboard / Wait-But-Why / storyboard style). Use when Juan asks to \"criar ilustração\", \"desenho explicativo\", \"sketch pra pitch\", \"diagrama estilo whiteboard\", \"imagem hand-drawn\", \"ilustração estilo Tim Urban\", or wants to explain a system/concept visually for a client or post. Generates via Replica",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill sketch-illustration",
+      "githubPath": "skills/design/sketch-illustration/SKILL.md"
+    },
+    {
+      "slug": "skill-creator",
+      "name": "skill-creator",
+      "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill skill-creator",
+      "githubPath": "skills/general/skill-creator/SKILL.md"
+    },
+    {
+      "slug": "slack-messaging",
+      "name": "slack-messaging",
+      "description": "Use when asked to send or read Slack messages, check Slack channels, test Slack integrations, or interact with a Slack workspace from the command line.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill slack-messaging",
+      "githubPath": "skills/general/slack-messaging/SKILL.md"
+    },
+    {
+      "slug": "social-content",
+      "name": "social-content",
+      "description": "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn post,' 'Twitter thread,' 'social media,' 'content calendar,' 'social scheduling,' 'engagement,' 'viral content,' 'what should I post,' 'repurpose this content,' 'tweet ideas,' 'LinkedIn carousel,' 'soci",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill social-content",
+      "githubPath": "skills/general/social-content/SKILL.md"
+    },
+    {
+      "slug": "steveos",
+      "name": "steveos",
+      "description": ">",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill steveos",
+      "githubPath": "skills/ops/steveos/SKILL.md"
+    },
+    {
+      "slug": "strategic-compact",
+      "name": "strategic-compact",
+      "description": "Suggests manual context compaction at logical intervals to preserve context through task phases rather than arbitrary auto-compaction.",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill strategic-compact",
+      "githubPath": "skills/general/strategic-compact/SKILL.md"
+    },
+    {
+      "slug": "subagent-driven-development",
+      "name": "subagent-driven-development",
+      "description": "Use when executing implementation plans with independent tasks in the current session",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill subagent-driven-development",
+      "githubPath": "skills/dev/subagent-driven-development/SKILL.md"
+    },
+    {
+      "slug": "systematic-debugging",
+      "name": "systematic-debugging",
+      "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill systematic-debugging",
+      "githubPath": "skills/dev/systematic-debugging/SKILL.md"
+    },
+    {
+      "slug": "tdd-workflow",
+      "name": "tdd-workflow",
+      "description": "Use this skill when writing new features, fixing bugs, or refactoring code. Enforces test-driven development with 80%+ coverage including unit, integration, and E2E tests.",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill tdd-workflow",
+      "githubPath": "skills/dev/tdd-workflow/SKILL.md"
+    },
+    {
+      "slug": "theme-factory",
+      "name": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill theme-factory",
+      "githubPath": "skills/design/theme-factory/SKILL.md"
+    },
+    {
+      "slug": "transcribe-video",
+      "name": "transcribe-video",
+      "description": ">",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill transcribe-video",
+      "githubPath": "skills/general/transcribe-video/SKILL.md"
+    },
+    {
+      "slug": "ui-ux-pro-max",
+      "name": "ui-ux-pro-max",
+      "description": "UI/UX design intelligence for web and mobile. Includes 50+ styles, 161 color palettes, 57 font pairings, 161 product types, 99 UX guidelines, and 25 chart types across 10 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui, and HTML/CSS). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, and check UI/UX code. Pr",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill ui-ux-pro-max",
+      "githubPath": "skills/design/ui-ux-pro-max/SKILL.md"
+    },
+    {
+      "slug": "unfreeze",
+      "name": "unfreeze",
+      "description": "|",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill unfreeze",
+      "githubPath": "skills/general/unfreeze/SKILL.md"
+    },
+    {
+      "slug": "update-agents-guide",
+      "name": "update-agents-guide",
+      "description": "Automatically updates the Penguin agents guide page (`/agents/guide`) to reflect the current system state.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill update-agents-guide",
+      "githubPath": "skills/ops/update-agents-guide/SKILL.md"
+    },
+    {
+      "slug": "using-git-worktrees",
+      "name": "using-git-worktrees",
+      "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill using-git-worktrees",
+      "githubPath": "skills/dev/using-git-worktrees/SKILL.md"
+    },
+    {
+      "slug": "using-superpowers",
+      "name": "using-superpowers",
+      "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill using-superpowers",
+      "githubPath": "skills/dev/using-superpowers/SKILL.md"
+    },
+    {
+      "slug": "using-tmux-for-interactive-commands",
+      "name": "using-tmux-for-interactive-commands",
+      "description": "Use when you need to run interactive CLI tools (vim, git rebase -i, Python REPL, etc.) that require real-time input/output - provides tmux-based approach for controlling interactive sessions through detached sessions and send-keys",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill using-tmux-for-interactive-commands",
+      "githubPath": "skills/dev/using-tmux-for-interactive-commands/SKILL.md"
+    },
+    {
+      "slug": "verification-before-completion",
+      "name": "verification-before-completion",
+      "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill verification-before-completion",
+      "githubPath": "skills/dev/verification-before-completion/SKILL.md"
+    },
+    {
+      "slug": "vps-setup",
+      "name": "vps-setup",
+      "description": "Set up a fresh Ubuntu VPS for web development with Node.js, Python, Nginx, PM2, SSL, and security hardening. Use when setting up a new server, configuring web hosting, deploying apps, or helping users create a development playground server.",
+      "category": "ops",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "Steve OS",
+        "deploy",
+        "VPS",
+        "WhatsApp",
+        "automation"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill vps-setup",
+      "githubPath": "skills/ops/vps-setup/SKILL.md"
+    },
+    {
+      "slug": "web-artifacts-builder",
+      "name": "web-artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+      "category": "dev",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "code",
+        "debugging",
+        "testing",
+        "architecture",
+        "MCP",
+        "git"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill web-artifacts-builder",
+      "githubPath": "skills/dev/web-artifacts-builder/SKILL.md"
+    },
+    {
+      "slug": "website-to-hyperframes",
+      "name": "website-to-hyperframes",
+      "description": "|",
+      "category": "design",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "UI",
+        "HTML",
+        "carousel",
+        "brand",
+        "visual",
+        "CSS"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill website-to-hyperframes",
+      "githubPath": "skills/design/website-to-hyperframes/SKILL.md"
+    },
+    {
+      "slug": "whatsapp-group-cover",
+      "name": "whatsapp-group-cover",
+      "description": "Gera imagem 1080x1080 pra capa de grupo de WhatsApp com logo do cliente em cima e logo da Hive Technology embaixo, fundo preto. Use sempre que o Juan pedir \"capa de grupo WhatsApp\", \"imagem pra grupo com cliente\", \"cover do grupo Hive + [cliente]\", ou qualquer variacao (criar/gerar/fazer capa pra grupo WA do cliente X). Usado no inicio do processo de vendas da Hive, antes de mandar proposta, pra a",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill whatsapp-group-cover",
+      "githubPath": "skills/general/whatsapp-group-cover/SKILL.md"
+    },
+    {
+      "slug": "winston-presentation-coach",
+      "name": "winston-presentation-coach",
+      "description": "Coach the user through building, auditing, or rescuing a presentation using Patrick Winston's MIT \"How to Speak\" framework. Apply this whenever the user asks for help with a talk, pitch, keynote, demo, job talk, conference talk, thesis defense, board presentation, lecture, slide deck audit, opening hook, closing slide, presentation structure, making ideas memorable, or anything involving the words",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill winston-presentation-coach",
+      "githubPath": "skills/general/winston-presentation-coach/SKILL.md"
+    },
+    {
+      "slug": "wrap",
+      "name": "wrap",
+      "description": "Sincronização cross-board do painel de controle (3 boards do Juan). Voice triggers — \"fechamento do dia\", \"wrap\", \"wrap-up\", \"atualiza os 3 boards\", \"fecha o dia\". Cron 8h SP rodam morningWrap, 18h SP rodam eveningWrap automaticamente. Skill é a versão completa que Juan invoca quando quer fechar agora. Cruza Calendar + Gmail + Fathom + WhatsApp + ClickUp e atualiza /board (CRM) + /board-juan (80/2",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill wrap",
+      "githubPath": "skills/general/wrap/SKILL.md"
+    },
+    {
+      "slug": "writing-plans",
+      "name": "writing-plans",
+      "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill writing-plans",
+      "githubPath": "skills/general/writing-plans/SKILL.md"
+    },
+    {
+      "slug": "writing-skills",
+      "name": "writing-skills",
+      "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+      "category": "general",
+      "source": "hive",
+      "layer": "hive",
+      "tags": [
+        "productivity",
+        "workflow",
+        "AI"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill writing-skills",
+      "githubPath": "skills/general/writing-skills/SKILL.md"
+    },
+    {
+      "slug": "aiox-analyst",
+      "name": "aiox-analyst",
+      "description": "Business Analyst (Atlas). Use for market research, competitive analysis, user research, brainstorming session facilitation, structured ideation workshops, feasibility studies, i...",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-analyst",
+      "githubPath": "skills/aiox/aiox-analyst/SKILL.md"
+    },
+    {
+      "slug": "aiox-architect",
+      "name": "aiox-architect",
+      "description": "Architect (Aria). Use for system architecture (fullstack, backend, frontend, infrastructure), technology stack selection (technical evaluation), API design (REST/GraphQL/tRPC/We...",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-architect",
+      "githubPath": "skills/aiox/aiox-architect/SKILL.md"
+    },
+    {
+      "slug": "aiox-data-engineer",
+      "name": "aiox-data-engineer",
+      "description": "Database Architect & Operations Engineer (Dara). Use for database design, schema architecture, Supabase configuration, RLS policies, migrations, query optimization, data modelin...",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-data-engineer",
+      "githubPath": "skills/aiox/aiox-data-engineer/SKILL.md"
+    },
+    {
+      "slug": "aiox-dev",
+      "name": "aiox-dev",
+      "description": "Full Stack Developer (Dex). Use for code implementation, debugging, refactoring, and development best practices",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-dev",
+      "githubPath": "skills/aiox/aiox-dev/SKILL.md"
+    },
+    {
+      "slug": "aiox-devops",
+      "name": "aiox-devops",
+      "description": "GitHub Repository Manager & DevOps Specialist (Gage). Use for repository operations, version management, CI/CD, quality gates, and GitHub push operations. ONLY agent authorized...",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-devops",
+      "githubPath": "skills/aiox/aiox-devops/SKILL.md"
+    },
+    {
+      "slug": "aiox-master",
+      "name": "aiox-master",
+      "description": "AIOX Master Orchestrator & Framework Developer (Orion). Use when you need comprehensive expertise across all domains, framework component creation/modification, workflow orchest...",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-master",
+      "githubPath": "skills/aiox/aiox-master/SKILL.md"
+    },
+    {
+      "slug": "aiox-pm",
+      "name": "aiox-pm",
+      "description": "Product Manager (Morgan). Use for PRD creation (greenfield and brownfield), epic creation and management, product strategy and vision, feature prioritization (MoSCoW, RICE), roa...",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-pm",
+      "githubPath": "skills/aiox/aiox-pm/SKILL.md"
+    },
+    {
+      "slug": "aiox-po",
+      "name": "aiox-po",
+      "description": "Product Owner (Pax). Use for backlog management, story refinement, acceptance criteria, sprint planning, and prioritization decisions",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-po",
+      "githubPath": "skills/aiox/aiox-po/SKILL.md"
+    },
+    {
+      "slug": "aiox-qa",
+      "name": "aiox-qa",
+      "description": "Test Architect & Quality Advisor (Quinn). Use for comprehensive test architecture review, quality gate decisions, and code improvement. Provides thorough analysis including requ...",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-qa",
+      "githubPath": "skills/aiox/aiox-qa/SKILL.md"
+    },
+    {
+      "slug": "aiox-sm",
+      "name": "aiox-sm",
+      "description": "Scrum Master (River). Use for user story creation from PRD, story validation and completeness checking, acceptance criteria definition, story refinement, sprint planning, backlo...",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-sm",
+      "githubPath": "skills/aiox/aiox-sm/SKILL.md"
+    },
+    {
+      "slug": "aiox-squad-creator",
+      "name": "aiox-squad-creator",
+      "description": "Squad Creator (Craft). Use to create, validate, publish and manage squads",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-squad-creator",
+      "githubPath": "skills/aiox/aiox-squad-creator/SKILL.md"
+    },
+    {
+      "slug": "aiox-ux-design-expert",
+      "name": "aiox-ux-design-expert",
+      "description": "UX/UI Designer & Design System Architect (Uma). Complete design workflow - user research, wireframes, design systems, token extraction, component building, and quality assurance",
+      "category": "aiox",
+      "source": "aiox",
+      "layer": "",
+      "tags": [
+        "AIOX",
+        "agile",
+        "PM",
+        "QA",
+        "orchestrator"
+      ],
+      "visibility": "public",
+      "installCommand": "npx hive-skills install --skill aiox-ux-design-expert",
+      "githubPath": "skills/aiox/aiox-ux-design-expert/SKILL.md"
+    }
+  ]
+}

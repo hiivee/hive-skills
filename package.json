@@ -1,0 +1,22 @@
+{
+  "name": "hive-skills",
+  "version": "1.0.0",
+  "description": "Hive Technology Skills Registry — install Claude Code skills",
+  "bin": {
+    "hive-skills": "./bin/install.js"
+  },
+  "scripts": {
+    "generate-registry": "node scripts/generate-registry.js"
+  },
+  "keywords": ["claude-code", "ai-agents", "skills", "hive", "claude"],
+  "author": "Hive Technology <hi@hivetechnology.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiivee/hive-skills.git"
+  },
+  "homepage": "https://hub.hivetechnology.io/skills",
+  "engines": {
+    "node": ">=18"
+  }
+}
